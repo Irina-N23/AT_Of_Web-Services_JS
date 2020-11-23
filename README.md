@@ -1,2 +1,2 @@
-# Web_Technologies_and_Protocols_JS
-Web Technologies and Protocols / EPMFARMATS-12785
+# Automated testing of Web Services in JS
+[API testing] Automated testing of Web Services (aka API Automated testing) / EPMFARMATS-12790
