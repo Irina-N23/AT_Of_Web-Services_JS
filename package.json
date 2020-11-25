@@ -1,0 +1,31 @@
+{
+  "name": "at_of_web-services_js",
+  "version": "1.0.0",
+  "description": "a simple example of automated testing of web services",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Irina-N23/AT_Of_Web-Services_JS.git"
+  },
+  "keywords": [
+    "mocha",
+    "rest",
+    "service",
+    "javascript"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Irina-N23/AT_Of_Web-Services_JS/issues"
+  },
+  "homepage": "https://github.com/Irina-N23/AT_Of_Web-Services_JS#readme",
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "mocha": "^8.2.1",
+    "mochawesome": "^6.2.1",
+    "node-fetch": "^2.6.1"
+  }
+}
